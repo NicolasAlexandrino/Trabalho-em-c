@@ -1,4 +1,5 @@
 # Trabalho – Ponteiros em C
+[Trabalho-ponteiro-c (1).pdf](https://github.com/user-attachments/files/22259352/Trabalho-ponteiro-c.1.pdf)
 
 Este repositório contém as soluções das **questões 1 a 7** da lista de exercícios de Estrutura de Dados (ponteiros em C).
 
